@@ -157,7 +157,7 @@ Linux Fundamentals Part 1 provided a practical introduction to the Linux operati
 
 ## Room Completion
 
-![Linux Fundamentals Part 1 Completion](completion.png)
+![Linux Fundamentals Part 1 Completion](Linux-Fundamentals-1.png)
 
 ---
 
