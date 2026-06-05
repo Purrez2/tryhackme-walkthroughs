@@ -174,4 +174,6 @@ Both Settings and Control Panel are important tools for managing Windows systems
 
 ## Status
 
-✅ Room Completed(Windows-Fundamentals- 1.png)
+## Room Completion
+
+![Windows Fundamentals 1](Windows-Fundamentals-1.png)
