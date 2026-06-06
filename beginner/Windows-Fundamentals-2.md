@@ -275,9 +275,5 @@ This room expanded my understanding of the administrative utilities built into W
 
 ```
 
-Windows-Fundamentals-2/
-│
-├── README.md
-└── Windows-Fundamentals-2.png
 
 ```
