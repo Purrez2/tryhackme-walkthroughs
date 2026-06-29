@@ -83,9 +83,9 @@ Networking is one of the core foundations of cybersecurity. Understanding how de
 - Networking Diagrams
 
 ---
-
 ## Room Completion
 
 ✅ **Networking Concepts Completed Successfully**
 
-![Networking- Concepts](Beginner/Networking-Concepts.png)
+![Networking Concepts](Beginner/Networking-Concepts.png)
+
