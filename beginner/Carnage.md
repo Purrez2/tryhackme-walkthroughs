@@ -159,7 +159,8 @@ Key lessons learned:
 
 ## Completion Badge
 
-![Carnage Completion](Screenshots/Carnage.png)
+
+![Carnage Completion](Carnage.png)
 
 ---
 
