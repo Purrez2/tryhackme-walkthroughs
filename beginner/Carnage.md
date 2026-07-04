@@ -163,17 +163,7 @@ Key lessons learned:
 
 ---
 
-## Folder Structure
 
-```
-Carnage/
-│
-├── README.md
-└── Screenshots/
-    └── Carnage.png
-```
-
----
 
 ## Conclusion
 
