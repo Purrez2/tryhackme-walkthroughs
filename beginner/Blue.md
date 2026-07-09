@@ -235,22 +235,8 @@ This room demonstrated how dangerous unpatched systems can be. A single SMB vuln
 ---
 
 # Screenshot
+![Blue Room Completion](Blue.png)
 
-Place your completion screenshot here.
-
-```text
-Blue/
-│
-├── README.md
-└── images
-    └── blue-complete.png
-```
-
-```markdown
-![Room Completion](images/blue-complete.png)
-```
-
----
 
 ## Skills Demonstrated
 
