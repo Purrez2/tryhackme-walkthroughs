@@ -70,23 +70,7 @@ This room strengthened my understanding of how Security Operations Centers monit
 
 ---
 
-## 📸 Room Completion
 
-> Save your completion screenshot inside this folder as:
-
-```
-Wazuh.png
-```
-
-Then display it using:
-
-```markdown
-## 🖼️ Completion Badge
-
-![Wazuh Completion](Wazuh.png)
-```
-
----
 
 ## 🚀 Outcome
 
@@ -101,9 +85,6 @@ Successfully completed the **Wazuh** room and gained practical exposure to:
 - Security Operations Center (SOC) workflows
 
 ---
+## 🖼️ Room Completion
 
-## 📖 Author
-
-**Purity Kariuki**
-
-Cybersecurity | SOC Analyst | Blue Team | Threat Detection | TryHackMe Learner
+![Wazuh Room Completion](Wazuh.png)
