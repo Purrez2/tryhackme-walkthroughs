@@ -41,7 +41,7 @@ Active Directory is one of the most important technologies in enterprise cyberse
 
 ## 📸 Screenshot
 
-`![Active Directory Basics](screenshots/Active-Directory-Basics.png)`
+![Active Directory Basics](screenshots/Active-Directory-Basics.png)
 
 
 ---
